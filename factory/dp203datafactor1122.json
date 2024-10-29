@@ -1,0 +1,9 @@
+{
+	"name": "dp203datafactor1122",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b545d470-a625-4616-a7c5-5aa144d1da2b",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
